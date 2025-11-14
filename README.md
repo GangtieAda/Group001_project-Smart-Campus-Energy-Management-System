@@ -82,7 +82,13 @@ streamlit run dashboard/app.py
 ```
 
 
-## 8. Contacts
+## 8. Versioning
+- v1.0 – Initial setup
+- v1.1 – Mid-project progress
+- v2.0 – Final release
+
+ 
+## 9. Contacts
 
 Group001
 - Kayode Babalola
