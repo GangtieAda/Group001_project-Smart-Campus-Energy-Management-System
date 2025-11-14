@@ -2,7 +2,7 @@
 
 Group 001 – Project Summary
 
-------------------------------------
+
 
 ## 1. Overview
 
@@ -42,17 +42,26 @@ A campus-wide Smart Energy Management System integrating IoT sensors, cloud anal
 
 
 
-## 5. Supplies Cost Summary
+## 5. Cost Summary
 
-Desigo CC Integration – $15,000
-- Base license: $9,500
-- BACnet integration: $4,000
-- Maintenance (10–15%): $1,500
+Labor - $214,000
+- Energy Systems Engineer (800 hrs @ $55/hr): $44,000
+- Electrical Contractors (1,200 hrs @ $40/hr): $48,000
+- Software Developers – IoT & Dashboard (1,000 hrs @ $60/hr): $60,000
+- Data Scientists – Optimization & Analytics (600 hrs @ $60/hr): $36,000
+- Project Manager (400 hrs @ $65/hr): $26,000
 
-GCP Cloud Services – $5,000/year
-- Compute Engine, Storage, BigQuery, monitoring
+Supplies & Technology - $87,500
+- IoT Sensors (150 units @ $250): $37,500
+- Networking Equipment (20 units @ $1,500): $30,000
+- Cloud Services (GCP, 1 year: Compute + Storage + Monitoring): $5,000
+- Control Software Licenses – Siemens Desigo CC (Base $9,500 + BACnet Integration $4,000 + Maintenance $1,500): $15,000
 
+Miscellaneous - $20,325
+- Staff Training & Workshops: $5,000
+- Contingency (5%): $15,325
 
+/Total Cost: USD 321,825/
 
 ## 6. Repository Structure
 
