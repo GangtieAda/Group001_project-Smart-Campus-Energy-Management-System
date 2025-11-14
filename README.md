@@ -11,11 +11,11 @@ A campus-wide Smart Energy Management System integrating IoT sensors, cloud anal
 
 
 ## 2. System Architecture
-	•	Sensing Layer: Smart meters, motion/temperature sensors
-	•	Data Layer: GCP (Compute Engine, Storage, BigQuery)
-	•	Analytics: Energy forecasting, anomaly detection
-	•	Control: Siemens Desigo CC via BACnet
-	•	Interface: Dashboard for facility managers
+- Sensing Layer: Smart meters, motion/temperature sensors
+- Data Layer: GCP (Compute Engine, Storage, BigQuery)
+- Analytics: Energy forecasting, anomaly detection
+- Control: Siemens Desigo CC via BACnet
+- Interface: Dashboard for facility managers
 
 
 
