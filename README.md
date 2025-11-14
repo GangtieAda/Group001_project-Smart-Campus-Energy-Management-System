@@ -20,31 +20,37 @@ A campus-wide Smart Energy Management System integrating IoT sensors, cloud anal
 
 
 ## 3. Core Features
-	•	Real-time energy monitoring
-	•	Predictive modeling for demand optimization
-	•	Automated HVAC and lighting control
-	•	Alerts for abnormal consumption
-	•	Campus-wide usage visualizations
+- Real-time energy monitoring
+- Predictive modeling for demand optimization
+- Automated HVAC and lighting control
+- Alerts for abnormal consumption
+- Campus-wide usage visualizations
 
 
 
 ## 4. Technologies
 
-Python • FastAPI • Streamlit • MQTT
-Google Cloud Platform • BigQuery
-Siemens Desigo CC (BACnet)
+| Layer | Technology |
+|---------|----------|
+| IoT & Data Ingestion | Python, MQTT, REST APIs |
+| Backend | FastAPI / Flask |
+| Cloud | Google Cloud Platform (Compute Engine, Storage, BigQuery) |
+| Analytics | Python (Pandas, NumPy, Scikit-learn) |
+| Interface | React or Streamlit |
+| Controls | Siemens Desigo CC + BACnet |
 
 
 
-## 5. Cost Summary
+
+## 5. Supplies Cost Summary
 
 Desigo CC Integration – $15,000
-	•	Base license: $9,500
-	•	BACnet integration: $4,000
-	•	Maintenance (10–15%): $1,500
+- Base license: $9,500
+- BACnet integration: $4,000
+- Maintenance (10–15%): $1,500
 
 GCP Cloud Services – $5,000/year
-	•	Compute Engine, Storage, BigQuery, monitoring
+- Compute Engine, Storage, BigQuery, monitoring
 
 
 
@@ -70,4 +76,6 @@ streamlit run dashboard/app.py
 ## 8. Contacts
 
 Group001
-Kayode Babalola • Qianru Deng • Priyanka Sharma
+- Kayode Babalola
+- Qianru Deng
+- Priyanka Sharma
