@@ -66,10 +66,33 @@ Miscellaneous - $20,325
 ## 6. Repository Structure
 
 ```
-src/        # Backend, sensors, analytics
-dashboard/  # Visualization UI
-data/       # Audit + sensor datasets
-docs/       # Charter, risks, reports
+Group001_project-Smart-Campus-Energy-Management-System/
+├── src/                    # Backend core, sensor interfaces & analytics modules
+│   ├── sensors/           # Sensor data acquisition & communication
+│   ├── analytics/         # Energy data analysis & core algorithms
+│   ├── api/               # RESTful API endpoints
+│   └── utils/             # Common utility functions
+├── dashboard/              # Data visualization frontend application
+│   ├── public/            # Static assets (images, favicons)
+│   ├── src/               # React/Vue components & frontend logic
+│   └── package.json       # Frontend dependencies configuration
+├── data/                   # Data storage & audit directory
+│   ├── raw/               # Raw datasets from sensors
+│   ├── processed/         # Cleaned and processed data
+│   └── audit_logs/        # System operations & data audit logs
+├── docs/                   # Project documentation
+│   ├── project_charter.pdf
+│   ├── risk_assessment.md
+│   └── project_reports/
+├── presentation/           # Project demonstration materials
+│   ├── demo_slides.pdf    # Final presentation slides
+│   ├── video_walkthrough/ # Screen recording of system demo
+│   └── screenshots/       # Key features and UI screenshots
+├── methodology/           # Project management artifacts
+│   ├── aha_screenshots/  # Product roadmap & feature definitions
+│   ├── basecamp_screenshots/ # Project plans, todos & schedules
+│   └── critical_path_analysis.md
+└── README.md              # Project overview (this file)
 ```
 
 
@@ -86,6 +109,7 @@ streamlit run dashboard/app.py
 - v1.0 – Initial setup
 - v1.1 – Mid-project progress
 - v2.0 – Final release
+- v2.1 – Final version
 
  
 ## 9. Contacts
