@@ -106,10 +106,18 @@ streamlit run dashboard/app.py
 - v1.0 – Initial setup
 - v1.1 – Mid-project progress
 - v2.0 – Final release
-- v2.1 – Final version
 
+
+## 9. Summary of GPT Usage in the Project
+Through the Smart Campus Energy Management System project, ChatGPT was used as a support tool to enhance clarity, improve presentation quality, and assist with technical explanations. Specifically, it helped with:
+
+- Content Refinement: Transforming raw text into a more professional, concise, and suitable expression for PowerPoint presentations or reports.
+- Technical Explanation: Explaining the technologies involved in the project (e.g., model architecture, data processing workflows).
+- Summarization & Rewriting: Summarizing, rewriting, and condensing long paragraphs for use in project descriptions, methodologies, and conclusions.
+- Presentation Support: Assisting in optimizing project structure descriptions, visual process narratives, and roadmap descriptions to better suit presentation needs.
+- Clarity & Consistency: Ensuring logical coherence and consistent language in documents, enhancing overall professionalism.
  
-## 9. Contacts
+## 10. Contacts
 
 Group001
 - Kayode Babalola
