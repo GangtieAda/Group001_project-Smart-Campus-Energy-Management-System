@@ -81,17 +81,14 @@ Group001_project-Smart-Campus-Energy-Management-System/
 │   ├── processed/         # Cleaned and processed data
 │   └── audit_logs/        # System operations & data audit logs
 ├── docs/                   # Project documentation
-│   ├── project_charter.pdf
-│   ├── risk_assessment.md
+│   ├── project_charter.docx
+│   ├── Technical_Specifications.docx
 │   └── project_reports/
 ├── presentation/           # Project demonstration materials
-│   ├── demo_slides.pdf    # Final presentation slides
-│   ├── video_walkthrough/ # Screen recording of system demo
-│   └── screenshots/       # Key features and UI screenshots
+│   ├── demo_slides.ppt    # Final presentation slides
 ├── methodology/           # Project management artifacts
 │   ├── aha_screenshots/  # Product roadmap & feature definitions
 │   ├── basecamp_screenshots/ # Project plans, todos & schedules
-│   └── critical_path_analysis.md
 └── README.md              # Project overview (this file)
 ```
 
