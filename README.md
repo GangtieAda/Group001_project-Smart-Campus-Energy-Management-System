@@ -106,7 +106,6 @@ streamlit run dashboard/app.py
 - v1.0 – Initial setup
 - v1.1 – Mid-project progress
 - v2.0 – Final release
-- v2.1 – Final version
 
 
 ## 9. Summary of GPT Usage in the Project
